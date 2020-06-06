@@ -1,0 +1,12 @@
+. src
+.   . app
+
+       . bankAccount
+          bank-account.component.ts|.html
+
+       . shared
+          bank.service.ts
+          bankAccount.service.ts
+
+       app.module.ts
+--index.html (cdn path for the bootstrap) 
